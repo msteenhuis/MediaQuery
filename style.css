@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: lightblue;
+}
+
+@media only screen and (max-width: 599px) {
+  body {
+    background-color: #fff700;
+  }
+}
+
